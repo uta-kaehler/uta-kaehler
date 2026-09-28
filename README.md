@@ -1,6 +1,6 @@
 # Uta Kähler
 
-Systemic consultant · nonprofit executive director · lecturer. I work on AI adoption as a collaboration problem — and I practice what I teach: the projects here were built with AI, human-led.
+Systemic consultant · nonprofit executive director · lecturer. I approach AI adoption as a matter of collaboration — and I practice what I teach: the projects here were built with AI, human-led.
 
 ## How I work
 
@@ -25,4 +25,4 @@ Since April 2026 I have been running a continuously documented practice on long-
 
 The repositories here describe working with AI systems, sometimes playfully. This describes an observable way of working — not a claim about the inner life, consciousness or moral status of these systems. That question I hold open, in both directions: I neither assume such properties nor rule them out. What the projects document is collaboration and outcomes, nothing more.
 
-**Contact & more:** [uta-kaehler.de](https://uta-kaehler.de) · ORCID [0009-0005-0456-9418](https://orcid.org/0009-0005-0456-9418)
+**Contact & more:** [uta-kaehler.de](https://uta-kaehler.de) · [LinkedIn](https://www.linkedin.com/in/uta-k%C3%A4hler) · ORCID [0009-0005-0456-9418](https://orcid.org/0009-0005-0456-9418)
