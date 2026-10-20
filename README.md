@@ -1,6 +1,6 @@
 # Uta Kähler
 
-Systemic consultant · nonprofit executive director · lecturer. I approach AI adoption as a matter of collaboration — and I practice what I teach: the projects here were built with AI, human-led.
+Communication scientist · systemic consultant · nonprofit executive director · lecturer · lecturer. I approach AI adoption as a matter of collaboration — and I practice what I teach: the projects here were built with AI, human-led.
 
 ## How I work
 
