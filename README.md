@@ -15,6 +15,7 @@ Since April 2026 I have been running a continuously documented practice on long-
 ## Projects
 
 - **[honig-app](https://github.com/uta-kaehler/honig-app)** — offline travel app for Morocco. Built with AI, human-led: code by Claude (in Claude Code), concept, requirements and acceptance by me. The build itself is documented as a case study in collaborative multi-system work (working report in the repo).
+- **[teneriffa-app](https://github.com/uta-kaehler/teneriffa-app)** — personal travel companion from two weeks on Tenerife: map, light of the day, writing on the go. The predecessor of the honig-app, first built with Gemini, Claude and the Replit Agent, then opened up by Claude (in Claude Code) as a static web app without any server or AI calls, using a fictional sample trip. Concept, requirements and acceptance by me.
 - **[fotoaufraeumer](https://github.com/uta-kaehler/fotoaufraeumer)** — everyday photo cleanup tool (the name is German for "photo tidier"). Same working model, smaller scale.
 
 ## Background
