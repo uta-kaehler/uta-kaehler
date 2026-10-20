@@ -16,6 +16,7 @@ Since April 2026 I have been running a continuously documented practice on long-
 
 - **[honig-app](https://github.com/uta-kaehler/honig-app)** — offline travel app for Morocco. Built with AI, human-led: code by Claude (in Claude Code), concept, requirements and acceptance by me. The build itself is documented as a case study in collaborative multi-system work (working report in the repo).
 - **[teneriffa-app](https://github.com/uta-kaehler/teneriffa-app)** — personal travel companion from two weeks on Tenerife: map, light of the day, writing on the go. The predecessor of the honig-app, first built with Gemini, Claude and the Replit Agent, then opened up by Claude (in Claude Code) as a static web app without any server or AI calls, using a fictional sample trip. Concept, requirements and acceptance by me.
+- **[chat-leser](https://github.com/uta-kaehler/chat-leser)** — reader for Claude and ChatGPT data exports: find one conversation among hundreds, read it by day, keep it word for word. Includes the consent header from my research practice (see the ethics paper above). Runs entirely in the browser. Code by Claude (in Claude Code); concept, consent model and tests with real exports by me.
 - **[fotoaufraeumer](https://github.com/uta-kaehler/fotoaufraeumer)** — everyday photo cleanup tool (the name is German for "photo tidier"). Same working model, smaller scale.
 
 ## Background
@@ -26,6 +27,6 @@ Since April 2026 I have been running a continuously documented practice on long-
 
 The repositories here describe working with AI systems, sometimes playfully. This describes an observable way of working — not a claim about the inner life, consciousness or moral status of these systems. That question I hold open, in both directions: I neither assume such properties nor rule them out. What the projects document is collaboration and outcomes, nothing more.
 
-**Contact & more:** [uta-kaehler.de](https://uta-kaehler.de) · [LinkedIn](https://www.linkedin.com/in/uta-k%C3%A4hler) · ORCID [0009-0005-0456-9418](https://orcid.org/0009-0005-0456-9418) encounterai.substack.com
+**Contact & more:** [uta-kaehler.de](https://uta-kaehler.de) · [LinkedIn](https://www.linkedin.com/in/uta-k%C3%A4hler) · ORCID [0009-0005-0456-9418](https://orcid.org/0009-0005-0456-9418) · [Substack](https://encounterai.substack.com)
 
 
